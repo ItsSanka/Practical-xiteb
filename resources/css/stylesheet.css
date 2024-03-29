@@ -113,9 +113,9 @@ a:hover {
 
 /* loader ends */
 .header {
-      position: relative;
-    z-index: 100
-  padding-top: 15px;
+    position: relative;
+    z-index: 100;
+    padding-top: 15px;
 }
 .header .logo img {
   width: 50%;
